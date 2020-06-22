@@ -1,2 +1,5 @@
 flowers/data
 flowers/bottlenecks
+covid-*/**/*.jpg
+covid-*/**/*.jpeg
+covid-*/**/*.png

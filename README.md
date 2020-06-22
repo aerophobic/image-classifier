@@ -18,6 +18,14 @@ Provider a dataset with training images placed in category directories inside a 
  [project-directory]/star-wars-characters/data/bus
 ```
 
+## build train/guess environment
+
+```sh
+./build.sh
+```
+
+The script will build a docker image called `zhaw/image-classification:1.0.0`. this will be used in further steps to train a model and make guesses for unclassified images.
+
 ## Train
 
 Just type
