@@ -1,0 +1,61 @@
+"Image";"Label";"Score"
+"C:\Projekte\image-classification\covid-test\data\normal\0101.jpeg";"viral pneumonia";0.5460096001625061
+"C:\Projekte\image-classification\covid-test\data\normal\0101.jpeg";"normal";0.4537509083747864
+"C:\Projekte\image-classification\covid-test\data\normal\0101.jpeg";"covid";2.3947378213051707E-4
+"C:\Projekte\image-classification\covid-test\data\normal\0102.jpeg";"normal";0.9023101925849915
+"C:\Projekte\image-classification\covid-test\data\normal\0102.jpeg";"viral pneumonia";0.08018910884857178
+"C:\Projekte\image-classification\covid-test\data\normal\0102.jpeg";"covid";0.017500698566436768
+"C:\Projekte\image-classification\covid-test\data\normal\0103.jpeg";"normal";0.5995233654975891
+"C:\Projekte\image-classification\covid-test\data\normal\0103.jpeg";"viral pneumonia";0.39732635021209717
+"C:\Projekte\image-classification\covid-test\data\normal\0103.jpeg";"covid";0.003150261240079999
+"C:\Projekte\image-classification\covid-test\data\normal\0105.jpeg";"viral pneumonia";0.6073241829872131
+"C:\Projekte\image-classification\covid-test\data\normal\0105.jpeg";"normal";0.39083045721054077
+"C:\Projekte\image-classification\covid-test\data\normal\0105.jpeg";"covid";0.0018453594530001283
+"C:\Projekte\image-classification\covid-test\data\normal\0106.jpeg";"normal";0.7875211834907532
+"C:\Projekte\image-classification\covid-test\data\normal\0106.jpeg";"viral pneumonia";0.20378431677818298
+"C:\Projekte\image-classification\covid-test\data\normal\0106.jpeg";"covid";0.00869453139603138
+"C:\Projekte\image-classification\covid-test\data\normal\0107.jpeg";"normal";0.9896697402000427
+"C:\Projekte\image-classification\covid-test\data\normal\0107.jpeg";"viral pneumonia";0.010244106873869896
+"C:\Projekte\image-classification\covid-test\data\normal\0107.jpeg";"covid";8.612645615357906E-5
+"C:\Projekte\image-classification\covid-test\data\normal\0108.jpeg";"viral pneumonia";0.711539626121521
+"C:\Projekte\image-classification\covid-test\data\normal\0108.jpeg";"normal";0.28696689009666443
+"C:\Projekte\image-classification\covid-test\data\normal\0108.jpeg";"covid";0.0014934292994439602
+"C:\Projekte\image-classification\covid-test\data\normal\0109.jpeg";"normal";0.9096310138702393
+"C:\Projekte\image-classification\covid-test\data\normal\0109.jpeg";"viral pneumonia";0.09011794626712799
+"C:\Projekte\image-classification\covid-test\data\normal\0109.jpeg";"covid";2.5101969367824495E-4
+"C:\Projekte\image-classification\covid-test\data\normal\0110.jpeg";"viral pneumonia";0.8411706686019897
+"C:\Projekte\image-classification\covid-test\data\normal\0110.jpeg";"normal";0.15812353789806366
+"C:\Projekte\image-classification\covid-test\data\normal\0110.jpeg";"covid";7.057901239022613E-4
+"C:\Projekte\image-classification\covid-test\data\normal\0111.jpeg";"viral pneumonia";0.8138883709907532
+"C:\Projekte\image-classification\covid-test\data\normal\0111.jpeg";"normal";0.1825975775718689
+"C:\Projekte\image-classification\covid-test\data\normal\0111.jpeg";"covid";0.0035140966065227985
+"C:\Projekte\image-classification\covid-test\data\normal\0112.jpeg";"viral pneumonia";0.8391242027282715
+"C:\Projekte\image-classification\covid-test\data\normal\0112.jpeg";"normal";0.16032572090625763
+"C:\Projekte\image-classification\covid-test\data\normal\0112.jpeg";"covid";5.500318948179483E-4
+"C:\Projekte\image-classification\covid-test\data\normal\0114.jpeg";"normal";0.793347954750061
+"C:\Projekte\image-classification\covid-test\data\normal\0114.jpeg";"viral pneumonia";0.20141500234603882
+"C:\Projekte\image-classification\covid-test\data\normal\0114.jpeg";"covid";0.005237037781625986
+"C:\Projekte\image-classification\covid-test\data\normal\0115.jpeg";"viral pneumonia";0.8420385718345642
+"C:\Projekte\image-classification\covid-test\data\normal\0115.jpeg";"normal";0.15025974810123444
+"C:\Projekte\image-classification\covid-test\data\normal\0115.jpeg";"covid";0.007701704744249582
+"C:\Projekte\image-classification\covid-test\data\normal\0116.jpeg";"viral pneumonia";0.6158188581466675
+"C:\Projekte\image-classification\covid-test\data\normal\0116.jpeg";"normal";0.3841261863708496
+"C:\Projekte\image-classification\covid-test\data\normal\0116.jpeg";"covid";5.501108171301894E-5
+"C:\Projekte\image-classification\covid-test\data\normal\0117.jpeg";"normal";0.9803414344787598
+"C:\Projekte\image-classification\covid-test\data\normal\0117.jpeg";"viral pneumonia";0.019622109830379486
+"C:\Projekte\image-classification\covid-test\data\normal\0117.jpeg";"covid";3.652760278782807E-5
+"C:\Projekte\image-classification\covid-test\data\normal\0118.jpeg";"normal";0.687780499458313
+"C:\Projekte\image-classification\covid-test\data\normal\0118.jpeg";"viral pneumonia";0.3106080889701843
+"C:\Projekte\image-classification\covid-test\data\normal\0118.jpeg";"covid";0.0016113613964989781
+"C:\Projekte\image-classification\covid-test\data\normal\0119.jpeg";"normal";0.5363182425498962
+"C:\Projekte\image-classification\covid-test\data\normal\0119.jpeg";"viral pneumonia";0.43977347016334534
+"C:\Projekte\image-classification\covid-test\data\normal\0119.jpeg";"covid";0.02390836924314499
+"C:\Projekte\image-classification\covid-test\data\normal\0120.jpeg";"normal";0.9606884717941284
+"C:\Projekte\image-classification\covid-test\data\normal\0120.jpeg";"viral pneumonia";0.022313758730888367
+"C:\Projekte\image-classification\covid-test\data\normal\0120.jpeg";"covid";0.016997789964079857
+"C:\Projekte\image-classification\covid-test\data\normal\0121.jpeg";"normal";0.8812122941017151
+"C:\Projekte\image-classification\covid-test\data\normal\0121.jpeg";"viral pneumonia";0.11723805218935013
+"C:\Projekte\image-classification\covid-test\data\normal\0121.jpeg";"covid";0.0015496709384024143
+"C:\Projekte\image-classification\covid-test\data\normal\0122.jpeg";"normal";0.6270667314529419
+"C:\Projekte\image-classification\covid-test\data\normal\0122.jpeg";"viral pneumonia";0.35845711827278137
+"C:\Projekte\image-classification\covid-test\data\normal\0122.jpeg";"covid";0.014476144686341286
